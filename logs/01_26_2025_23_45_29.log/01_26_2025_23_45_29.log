@@ -1,0 +1,12 @@
+[ 2025-01-26 23:45:33,012 ] 23 root - INFO - Entered Data Ingestion component
+[ 2025-01-26 23:45:33,032 ] 27 root - INFO - Dataset is read
+[ 2025-01-26 23:45:33,094 ] 31 root - INFO - Train Test Split is inititated
+[ 2025-01-26 23:45:33,144 ] 38 root - INFO - Ingestion of data is completed
+[ 2025-01-26 23:45:33,234 ] 78 root - INFO - Read train and test data completed
+[ 2025-01-26 23:45:33,234 ] 79 root - INFO - Obtaining preprocessing object
+[ 2025-01-26 23:45:33,234 ] 52 root - INFO - Numerical Columns standard scaling completed
+[ 2025-01-26 23:45:33,234 ] 54 root - INFO - Categorical Columns encoding completed
+[ 2025-01-26 23:45:33,244 ] 93 root - INFO - Applying preprocssing object to dataframe
+[ 2025-01-26 23:45:33,284 ] 103 root - INFO - Saved preprocessing object
+[ 2025-01-26 23:45:33,284 ] 35 root - INFO - Splitting training and testing input data
+[ 2025-01-26 23:46:03,381 ] 60 root - INFO - Best model found is RandomForestClassifier
