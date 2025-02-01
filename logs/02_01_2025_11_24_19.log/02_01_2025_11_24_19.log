@@ -1,0 +1,8 @@
+[ 2025-02-01 11:24:19,624 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-02-01 11:24:19,631 ] 97 werkzeug - INFO -  * Debugger PIN: 126-182-180
+[ 2025-02-01 11:24:23,597 ] 97 werkzeug - INFO - 127.0.0.1 - - [01/Feb/2025 11:24:23] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2025-02-01 11:24:23,911 ] 97 werkzeug - INFO - 127.0.0.1 - - [01/Feb/2025 11:24:23] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2025-02-01 11:24:23,921 ] 97 werkzeug - INFO - 127.0.0.1 - - [01/Feb/2025 11:24:23] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2025-02-01 11:24:24,045 ] 97 werkzeug - INFO - 127.0.0.1 - - [01/Feb/2025 11:24:24] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=BiiGQqOdGbmnPAJkBGxB HTTP/1.1" 200 -
+[ 2025-02-01 11:24:24,098 ] 97 werkzeug - INFO - 127.0.0.1 - - [01/Feb/2025 11:24:24] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2025-02-01 11:30:16,691 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\Anirudh\\OneDrive\\Desktop\\Maintainance Prediction\\app.py', reloading
